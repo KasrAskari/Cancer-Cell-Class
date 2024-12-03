@@ -18,8 +18,7 @@ Cancer-Cell-Class/
 │  
 ├── Cancer_Cell.ipynb   # Main Jupyter Notebook containing the code  
 ├── cell_samples.csv    # Dataset file  
-├── README.md           # Project documentation  
-└── requirements.txt    # List of required Python libraries  
+└── README.md           # Project documentation 
 ```  
 
 ## Technologies Used  
