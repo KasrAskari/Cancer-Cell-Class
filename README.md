@@ -5,6 +5,7 @@ This project leverages a **Support Vector Machine (SVM)** model to classify canc
 
 ---
 
+
 ## 🚀 Features  
 ✅ **High Accuracy:** The model achieves a **99% classification rate**.  
 ✅ **Robust ML Algorithm:** Utilizes **SVM** for reliable cancer cell classification.  
